@@ -26,7 +26,7 @@ const sendForm= () =>{
     document.querySelector("form").style.display= "none"
     ticketEl.innerHTML= `
         <div id="ticket-infos">
-            <img src="images/logo-ticket.png" id="logo"/>
+            <img src="images/logo_2.png" id="logo"/>
             ${places > 1 ? 
                 `
                 <div id="cercle-ticket">
